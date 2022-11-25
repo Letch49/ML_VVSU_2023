@@ -1,0 +1,10 @@
+*.pyc
+*.sq
+*.db
+env/
+venv/
+ve/
+.idea
+.venv*
+/.vscode/
+poetry.lock
