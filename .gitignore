@@ -8,3 +8,8 @@ ve/
 .venv*
 /.vscode/
 poetry.lock
+test_raw
+
+#
+**/*.docx
+.DS_Store

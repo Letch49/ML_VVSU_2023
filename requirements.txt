@@ -1,0 +1,5 @@
+jupyterlab==3.5.2
+pandas==1.5.2
+scikit-learn==1.2.0
+umap-learn==0.5.3
+seaborn==0.12.1
