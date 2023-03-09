@@ -12,7 +12,7 @@
 
 [1. https://www.kaggle.com/datasets/uciml/student-alcohol-consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption)
 
-[2. https://www.kaggle.com/datasets/greeshmagirish/crime-against-women-20012014-india)](https://www.kaggle.com/datasets/greeshmagirish/crime-against-women-20012014-india)
+[2. https://www.kaggle.com/datasets/greeshmagirish/crime-against-women-20012014-india](https://www.kaggle.com/datasets/greeshmagirish/crime-against-women-20012014-india)
 
 [3.	https://www.kaggle.com/datasets/fbi-us/california-crime?select=ca_offenses_by_city.csv](https://www.kaggle.com/datasets/fbi-us/california-crime?select=ca_offenses_by_city.csv)
 
