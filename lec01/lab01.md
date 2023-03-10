@@ -1,4 +1,4 @@
-# Практическая лабараторная работа 1
+# Практическая лабораторная работа 1
 
 ## Цель
 
@@ -12,7 +12,7 @@
 
 [1. https://www.kaggle.com/datasets/uciml/student-alcohol-consumption](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption)
 
-[2. https://www.kaggle.com/datasets/uciml/student-alcohol-consumption](https://www.kaggle.com/datasets/greeshmagirish/crime-against-women-20012014-india)
+[2. https://www.kaggle.com/datasets/greeshmagirish/crime-against-women-20012014-india](https://www.kaggle.com/datasets/greeshmagirish/crime-against-women-20012014-india)
 
 [3.	https://www.kaggle.com/datasets/fbi-us/california-crime?select=ca_offenses_by_city.csv](https://www.kaggle.com/datasets/fbi-us/california-crime?select=ca_offenses_by_city.csv)
 
@@ -30,7 +30,7 @@
 
     2 Вывести техническую информацию о датасете, 
 
-        2.1 описать типы переменных в наборе (какие являются непрерывные, категориальные, номинальные, ...)
+        2.1 описать типы переменных в наборе (какие являются непрерывными, категориальными, номинальными, ...)
 
         2.2 вывести статистические характеристики набора
 
