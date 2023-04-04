@@ -11,3 +11,5 @@
 [lab2](https://github.com/Letch49/ML_VVSU_2023/blob/main/lec02/lab02.md)
 
 [lab3](https://github.com/Letch49/ML_VVSU_2023/blob/main/lec03/lab03.md)
+
+[lab4](https://github.com/Letch49/ML_VVSU_2023/blob/main/lec05/lab04.md)
